@@ -142,7 +142,3 @@ url = "https://github.com/markram1729"
 name = "twitter"
 url = "https://x.com/ram_rishik"
 
-[[params.socialIcons]]
-name = "Rss"
-url = "/index.xml"
-
