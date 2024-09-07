@@ -53,7 +53,7 @@ theme = "hugo-blog-awesome"
 [Languages.en-gb]
   languageName = "English"
   languageCode = "en-gb"
-  contentDir = "content/en"
+  contentDir = "content/"
   weight = 1
 
   [Languages.en-gb.menu]
@@ -75,10 +75,10 @@ theme = "hugo-blog-awesome"
     url = '/about/'
     weight = 30
   [[Languages.en-gb.menu.main]]
-    pageRef="theme"
-    name = 'THEMES'
+    pageRef="Recipies"
+    name = 'ReCiPiES'
     url = '/theme/'
-    weight = 30
+    weight = 20
 
 [Languages.en-gb.params]
   sitename = "Ranting in geeky way"
