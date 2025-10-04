@@ -108,7 +108,7 @@ theme = "hugo-blog-awesome"
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Marks mini blog "
   name = "Rishik Ram Jallarapu"
-  description = "An electrical engineer who can lit your life with light"
+  description = "An electrical engineer who can lit your life"
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
