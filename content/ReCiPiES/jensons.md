@@ -1,7 +1,8 @@
 +++
 title = 'Recipy of Inequality'
 date = 2025-02-24T22:15:44+05:30
-draft = false
+toc = true
+draft = true
 +++
 
 

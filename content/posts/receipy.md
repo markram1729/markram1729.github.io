@@ -1,7 +1,7 @@
 +++
 title = 'Man who knew infinity'
 date = 2025-02-24T21:19:04+05:30
-draft = false
+draft = true
 +++
 
 ## Recipy that disturbed the  fundamentals of Mathematics 
