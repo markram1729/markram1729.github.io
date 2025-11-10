@@ -1,6 +1,6 @@
 I am Rishik Ram , system software engineer at [vicharak computers](https://vicharak.in/) .  Interested in Computer Architecture , PL , Reconfigurable Computing
 
-One of few  i found fascinating between computer architecture , pl is how software  abstracted full understanding of making new paradigm from Realing your ideas to making hardware(chips)/ executing on hardware 
+One of few things i found fascinating between computer architecture , pl is how software abstracted full understanding of Hardware . Making new paradigms from Realising your ideas to making hardware(chips)/ executing on hardware 
 
 
 
