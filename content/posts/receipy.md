@@ -21,8 +21,10 @@ To prove this statement or to even understand it  ,`mathematicians had to go thr
 
 Let us discuss how this actually efected the reality of our understanding 
 
-Here I am providing simple explanation for understanding , I will add complex one in future readings (Reiman Zeta)
+Here I am providing simple explanation for understanding , for complex one in future readings ... (Reiman Zeta)
 
+
+### Proof 
 
 at Initial 
 
@@ -40,15 +42,10 @@ Sn = 1/2
 
 ```
 
-If you see the series we expect the answer to be `zero` by logic , if we use summation like 
+If you see the Eq1([Grandis Series](https://en.wikipedia.org/wiki/Grandi%27s_series)) we expect the answer to be `zero` or `one` by logic , but we get `Sn=1/2` even though Sn is divergent series  
 
-Series Sn is called as [Grandis Series](https://en.wikipedia.org/wiki/Grandi%27s_series)
 
-Geometric series `1/1 + 1/2 + 1/4 + 1/8 .. = 2 (Here it converges to 2 ) `
-
-where as `1 + 2 + 3 + 4 + 5 .. `  is always  increasing , this  is known as divergent 
-
-1-1+1-1+1-1 ....  is also a divergent series , answer could be {1,0} depends on where you stop but in infinity world it is divergent 
+> Geometric series `1/1 + 1/2 + 1/4 + 1/8 .. = 2 (Here it converges to 2 ) ` where as `1 + 2 + 3 + 4 + 5 .. `  is always  increasing , this  is known as divergent . 1-1+1-1+1-1 ....  is also a divergent series , answer could be {1,0} depends on where you stop but in infinity world it is divergent 
 
 Another similar series 
 
@@ -64,7 +61,7 @@ Sn = 1/4
 
 #### Actual Question : 
 
-- Sum of natural numbers till infinity i.e., Sn = 1+2+3+4+5+6...
+- Sum of infinity natural numbers   i.e., Sn = 1+2+3+4+5+6...
 
 ```
 let Y = 1-2+3-4+5-6+... 
