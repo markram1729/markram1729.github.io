@@ -26,21 +26,9 @@ Problems to Solve :
         Add References , Case studies etc.. 
 
 
-Few of My Rants :
-- Reddit : 
-    - [FPGA tools on FPGA](https://www.reddit.com/r/FPGA/comments/1g38wnh/fpga_tools_on_fpga/)
-    - [Programming Paradigm for Reconfigurable computing](https://www.reddit.com/r/ProgrammingLanguages/comments/1j0d89x/programming_paradigm_for_reconfigurable_computing/)
 
 
 
-My Goto Music : 
+[my goto Music ](ReCiPiES/musing.md)
 
-Note : Very Random Music themes 
-- [ Celebration Of Life](https://www.youtube.com/watch?v=86djRLU_P9A&list=RD86djRLU_P9A&start_radio=1)
-- [The Rains of Castamere (Red Wedding)](https://www.youtube.com/watch?v=2nvsGz70ZT0&list=RD2nvsGz70ZT0)
-- [Godzilla: King Of The Monsters](https://www.youtube.com/watch?app=desktop&v=cD0FeOrK6rk)
-- [36 There Are Worse Games To Play/ End Credits](https://www.youtube.com/watch?v=VPDd3eF2QBs)
-- [LUPII lui Calancea - PURTATA ](https://www.youtube.com/watch?v=3RlRvaYfVXM)
-- [Attack on Titan](https://www.youtube.com/watch?v=YwosFT56L5I) 
-- [Two Step from hell](https://www.youtube.com/watch?v=DeXoACwOT1o&list=RDDeXoACwOT1o&start_radio=1)
-//TODO Add More Songs ...
+[my rants...](ReCiPiES/rants.md)

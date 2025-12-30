@@ -1,5 +1,5 @@
 +++
-title = '[MOVIE] DASARA Directors writing'
+title = '[MOVIE] DASARA Directors Writing'
 date = 2025-02-24T22:15:44+05:30
 toc = true
 +++
