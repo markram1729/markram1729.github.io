@@ -1,5 +1,5 @@
 +++
-title = '[SONGS] MUiscal Epiphany'
+title = '[SONGS] MUsical Epiphany'
 date = 2025-12-30T10:04:58+05:30
 +++
 
