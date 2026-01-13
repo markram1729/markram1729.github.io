@@ -146,3 +146,6 @@ url = "https://x.com/ram_rishik"
 name = "Rss"
 url = "/index.xml"
 
+[[params.socialIcons]]
+name = "calendly"
+url = "https://calendly.com/markram1729/30min"

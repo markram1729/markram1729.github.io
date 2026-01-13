@@ -28,6 +28,9 @@ Problems to Solve :
 
 
 
+Connect with me :[social](https://www.linkedin.com/in/rishik-ram-jallarapu-3976a2177/)/ [Grab a meet](https://calendly.com/markram1729/30min)
+
+- Matrix Chat : rishik_ram:matrix.org
 
 [my goto Music ](ReCiPiES/musing.md)
 
